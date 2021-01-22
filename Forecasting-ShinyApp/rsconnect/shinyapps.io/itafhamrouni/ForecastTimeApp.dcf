@@ -1,0 +1,13 @@
+name: ForecastTimeApp
+title: ForecastTimeApp
+username:
+account: itafhamrouni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 323261
+bundleId: 1332105
+url: https://itafhamrouni.shinyapps.io/ForecastTimeApp/
+when: 1524417502.97983
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: FileUpLoad.R
